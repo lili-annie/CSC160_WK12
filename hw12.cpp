@@ -42,7 +42,7 @@ int main() {
   vec_a.push_back(9);
   vec_a.push_back(3);
   vec_a.push_back(5);
-  vec_a.push_back(4);
+  vec_a.push_back(4); 
   vec_a.push_back(0);
 
   //USE THIS EXAMPLE TO "SLICE" A VECTOR

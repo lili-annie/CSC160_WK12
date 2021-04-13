@@ -1,2 +1,2 @@
 language = "cpp"
-run = ""
+run = "g++ -o hw12 hw12.cpp && ./hw12"

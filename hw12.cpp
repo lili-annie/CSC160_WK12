@@ -5,6 +5,10 @@
 using namespace std;
 
 /*
+Look at wk10.cpp for an example to follow of recursive searching
+*/
+
+/*
 STUDENT: Write a function that will take two vectors of int
          and return true if the vectors are equal (they have
          the same numbers in the same order) and false if they

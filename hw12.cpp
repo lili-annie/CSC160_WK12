@@ -46,7 +46,7 @@ int main() {
   vec_a.push_back(0);
 
   //USE THIS EXAMPLE TO "SLICE" A VECTOR
-  vector<int> small_a(vec_a.begin()+1, vec_a.end()-2);
+  vector<int> small_a(vec_a.begin()+1, vec_a.end());
 
   printVector(vec_a);
   printVector(small_a);
